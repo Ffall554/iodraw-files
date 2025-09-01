@@ -65,7 +65,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7QXTULIu2i67TBMGO3Hl-28" value="钟主任定的" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="500" y="480" width="80" height="30" as="geometry" />
+          <mxGeometry x="500" y="455" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7QXTULIu2i67TBMGO3Hl-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7QXTULIu2i67TBMGO3Hl-30" target="7QXTULIu2i67TBMGO3Hl-21">
           <mxGeometry relative="1" as="geometry" />
