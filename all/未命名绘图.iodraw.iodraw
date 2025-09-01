@@ -56,13 +56,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7QXTULIu2i67TBMGO3Hl-22" value="健康管理中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7QXTULIu2i67TBMGO3Hl-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7QXTULIu2i67TBMGO3Hl-28" target="7QXTULIu2i67TBMGO3Hl-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7QXTULIu2i67TBMGO3Hl-28" value="钟主任定的" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="420" y="480" width="80" height="30" as="geometry" />
+          <mxGeometry x="500" y="480" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7QXTULIu2i67TBMGO3Hl-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7QXTULIu2i67TBMGO3Hl-30" target="7QXTULIu2i67TBMGO3Hl-21">
           <mxGeometry relative="1" as="geometry" />
@@ -86,7 +86,7 @@
           <mxGeometry x="240" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7QXTULIu2i67TBMGO3Hl-39" value="交于检后门诊" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7QXTULIu2i67TBMGO3Hl-41" value="医生自行保存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="320" width="120" height="60" as="geometry" />
